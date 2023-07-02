@@ -21,3 +21,5 @@ Simple script, it waits for the game to start and then copies the new dll into t
 4. Save the file and run it.
 
 5. Start RDR2.
+
+The script will continue to run and copy the file again when needed.
